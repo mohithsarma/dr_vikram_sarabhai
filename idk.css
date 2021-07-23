@@ -1,0 +1,31 @@
+#html{
+    font: size 11px;
+    color:white;
+}
+#title{
+    max-width:500px;
+    margin:0 auto;
+}
+#img-div{
+    max-width:500px;
+margin:0 auto;
+}
+#image{
+    width:100px;
+    max-width:100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+      }
+/* #tribute-info{
+    max-width:  500px;
+    margin: 0 auto;
+} */
+/* #img-caption{
+max-width:500px;
+margin:0 auto; */
+/* } */
+#body{
+    background-color:rgb(15, 26, 19);
+    color:rgb(74, 245, 62);
+}
